@@ -1,0 +1,6 @@
+*.pdf
+.sqlfluff
+submission
+part_1
+*.docx
+sum_issue.sql
